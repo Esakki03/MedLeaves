@@ -1,6 +1,6 @@
-train: /home/dcsmonisha/roboflow/yolov7/ayur/train/images
-val: /home/dcsmonisha/roboflow/yolov7/ayur/valid/images
-test: /home/dcsmonisha/roboflow/yolov7/ayur/test/images
+train: ../train/images
+val: ../valid/images
+test: ../test/images
 
 nc: 30
 names: ['Aerva lanata', 'Aloe vera', 'Andrographis paniculata', 'Bacopa monnieri', 'Calotropis gigantea', 'Centella asiatica', 'Chromolaena odorata', 'Cissus quadrangularis', 'Clerodendrum infortunatum', 'Clitoria ternatea', 'Coccinia grandis', 'Curcuma longa', 'Datura metal linn', 'Desmodium gangeticum', 'Hemigraphis colorata', 'Kaempferia galanga linn', 'Mentha spicata', 'Ocimum gratissimum', 'Ocimum tenuiflorum', 'Oxalis corniculata', 'Peperomia pellucida', 'Phyllanthus niruri', 'Piper betle', 'Piper longum', 'Piper nigrum', 'Plectranthus barbatus', 'Plumbago indica', 'Pseudarthria viscida', 'Ricinus communis linn', 'Tinospora cordifolia']
